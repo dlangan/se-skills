@@ -2,7 +2,7 @@
 
 A Claude Code **plugin marketplace** that packages a Solutions Engineer's account, deal, and territory workflows as installable skill bundles. Point Claude Code at this repo, install the families you want, set one config file, and Claude gains ~55 repeatable SE motions — account research, Connected Visions, BVS value maps, territory briefs, Dreamforce planning, and more.
 
-> **Status:** Phase 1 build. The marketplace scaffold (six plugin manifests + shared config/brains layout) is in place, and the **first skill — [`se-key-contact-review`](plugins/se-account-intelligence/skills/se-key-contact-review/SKILL.md) — is migrated and de-personalized.** The remaining skills are still being moved from a single personal `~/.claude/skills/` install into these plugins. See [Portability & configuration](#portability--configuration) — several of the not-yet-migrated skills still carry hardcoded values that a shared install replaces with your own via `se-config.json`.
+> **Status:** Phase 1 build. The marketplace scaffold is in place, and the **entire `se-account-intelligence` plugin — 13 skills — is migrated, de-personalized, and PII-scrubbed** (verified by a repo-wide scan: no org alias, no hardcoded paths/IDs, no real customer or person names). The other five plugins' skills are still being moved from a single personal `~/.claude/skills/` install. See [Portability & configuration](#portability--configuration) — the not-yet-migrated skills still carry hardcoded values that a shared install replaces with your own via `se-config.json`.
 
 ---
 
@@ -129,8 +129,9 @@ se-skills/
 
 ## Roadmap
 
-- [x] Codify **`se-key-contact-review`** — rank an SE's AEs' contacts and apply a **CASL/PIPEDA implied-consent test** (24-month rolling window, LVMs excluded, Slack-corroborated) to flag legitimately-contactable Key Contacts, then stamp the `Key Contact` field (CLI direct-write, or a Slackbot canvas on the read-only MCP path). First de-personalized, config-driven skill — the reference for how the rest get migrated.
-- [ ] Migrate the remaining five plugin skill sets, scrubbed and config-driven
+- [x] Codify **`se-key-contact-review`** — rank an SE's AEs' contacts and apply a **CASL/PIPEDA implied-consent test** (24-month rolling window, LVMs excluded, Slack-corroborated) to flag legitimately-contactable Key Contacts, then stamp the `Key Contact` field (CLI direct-write, or a Slackbot canvas on the read-only MCP path). Reference implementation for de-personalization.
+- [x] Migrate the full **`se-account-intelligence`** plugin (13 skills) — scrubbed, config-driven, PII-verified
+- [ ] Migrate the remaining five plugins (`se-territory-ops`, `se-bvs`, `se-dreamforce`, `se-advisory`, `se-afo-slack`)
 - [ ] Bundle brains with raw sources excluded
 - [ ] Write `docs/INSTALL.md`, `docs/DEPENDENCIES.md`, `docs/PORTABILITY.md` (referenced above)
 - [ ] Retire deprecated `se-weekly-territory-review` (replaced by `se-ae-territory-brief` + `se-scorecard`)
