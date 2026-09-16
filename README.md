@@ -1,8 +1,8 @@
 # SE Skills
 
-A Claude Code **plugin marketplace** that packages a Solutions Engineer's account, deal, and territory workflows as installable skill bundles. Point Claude Code at this repo, install the families you want, set one config file, and Claude gains ~49 repeatable SE motions — account research, Connected Visions, BVS value maps, territory briefs, Dreamforce planning, and more.
+A Claude Code **plugin marketplace** that packages a Solutions Engineer's account, deal, and territory workflows as installable skill bundles. Point Claude Code at this repo, install the families you want, set one config file, and Claude gains ~50 repeatable SE motions — account research, Connected Visions, BVS value maps, territory briefs, Dreamforce planning, and more.
 
-> **Status:** Phase 1 complete. All **six plugins — 49 skills — are migrated, de-personalized, and PII-scrubbed** (verified by a repo-wide, word-bounded scan: no org alias, no hardcoded home paths, no real customer/person names, no real internal Slack or Salesforce record IDs — only documented org-instance metadata and placeholder tokens remain). Every personal value is externalized to `~/.claude/se-config.json`. See [Portability & configuration](#portability--configuration) for the config contract and the handful of workspace-scoped skills that only run inside their original Slack workspace.
+> **Status:** Phase 1 complete. All **six plugins — 50 skills — are migrated, de-personalized, and PII-scrubbed** (verified by a repo-wide, word-bounded scan: no org alias, no hardcoded home paths, no real customer/person names, no real internal Slack or Salesforce record IDs — only documented org-instance metadata and placeholder tokens remain). Every personal value is externalized to `~/.claude/se-config.json`. See [Portability & configuration](#portability--configuration) for the config contract and the handful of workspace-scoped skills that only run inside their original Slack workspace.
 
 ---
 
