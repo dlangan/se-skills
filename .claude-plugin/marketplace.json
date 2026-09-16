@@ -1,0 +1,50 @@
+{
+  "name": "se-skills",
+  "owner": {
+    "name": "David Langan"
+  },
+  "plugins": [
+    {
+      "name": "se-account-intelligence",
+      "source": "./plugins/se-account-intelligence",
+      "description": "End-to-end account research, strategy, and executive narrative: full-account-package, 360-builder, northstar-pov, connected-vision, buyer-group-mapper.",
+      "version": "0.1.0",
+      "category": "sales-engineering"
+    },
+    {
+      "name": "se-territory-ops",
+      "source": "./plugins/se-territory-ops",
+      "description": "Weekly territory hygiene, deal reviews, and Org62 writes: ae-territory-brief, scorecard, avp updates, co-prime briefs.",
+      "version": "0.1.0",
+      "category": "sales-engineering"
+    },
+    {
+      "name": "se-bvs",
+      "source": "./plugins/se-bvs",
+      "description": "Business Value Services: discovery questionnaire, executive value map, and value-tree benchmarking, orchestrated by bvs-advisor.",
+      "version": "0.1.0",
+      "category": "sales-engineering"
+    },
+    {
+      "name": "se-dreamforce",
+      "source": "./plugins/se-dreamforce",
+      "description": "Dreamforce account/attendee profiling and personalized session recommendations: df27 family plus df-update session sync.",
+      "version": "0.1.0",
+      "category": "sales-engineering"
+    },
+    {
+      "name": "se-advisory",
+      "source": "./plugins/se-advisory",
+      "description": "Cross-cutting advisory and enablement: sf-dse, pipeline-finder, product-recommender, qbrix-advisor, call-notes-analyzer, promos, trailhead.",
+      "version": "0.1.0",
+      "category": "sales-engineering"
+    },
+    {
+      "name": "se-afo-slack",
+      "source": "./plugins/se-afo-slack",
+      "description": "Agentforce-Operations advisors (Slack-workspace-scoped): afo-ask-me-anything, use-case brainstorming/triage, partner intelligence, microsite narrative.",
+      "version": "0.1.0",
+      "category": "sales-engineering"
+    }
+  ]
+}

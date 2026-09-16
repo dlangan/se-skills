@@ -1,0 +1,7 @@
+{
+  "name": "se-advisory",
+  "description": "Cross-cutting advisory and enablement: sf-dse strategic advisor, pipeline-finder, sf-product-recommender (requires bundled product-brain), qbrix-advisor, call-notes-analyzer (brain-heavy), promo collector/matcher, and trailhead-recommender.",
+  "version": "0.1.0",
+  "author": { "name": "David Langan" },
+  "keywords": ["salesforce", "solutions-engineering", "advisory", "enablement", "call-notes"]
+}

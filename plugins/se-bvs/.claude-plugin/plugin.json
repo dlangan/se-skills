@@ -1,0 +1,7 @@
+{
+  "name": "se-bvs",
+  "description": "Business Value Services suite: discovery questionnaire, executive value map (4-gate plausibility), and value-tree benchmarking, orchestrated by bvs-advisor. Note: reads the Connected Vision voice file from se-account-intelligence.",
+  "version": "0.1.0",
+  "author": { "name": "David Langan" },
+  "keywords": ["salesforce", "business-value", "bvs", "roi", "value-map"]
+}

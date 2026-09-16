@@ -1,0 +1,7 @@
+{
+  "name": "se-territory-ops",
+  "description": "Weekly territory hygiene, deal reviews, and Org62 writes. Includes ae-territory-brief, scorecard, territory-org62-sync, AVP updates, and co-prime brief/debrief. Requires an authenticated sf CLI pointed at YOUR Org62 via se-config.json.",
+  "version": "0.1.0",
+  "author": { "name": "David Langan" },
+  "keywords": ["salesforce", "solutions-engineering", "territory", "org62", "scorecard"]
+}

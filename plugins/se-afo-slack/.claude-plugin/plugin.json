@@ -1,0 +1,7 @@
+{
+  "name": "se-afo-slack",
+  "description": "Agentforce-Operations advisors and Slack-native tools. WORKSPACE-SCOPED: afo-ask-me-anything, use-case brainstorming/triage, account-partner-intelligence, and microsite-narrative-builder depend on a specific Slack workspace (team ID) and its canvases; they will not function outside that workspace.",
+  "version": "0.1.0",
+  "author": { "name": "David Langan" },
+  "keywords": ["salesforce", "agentforce", "afo", "slack"]
+}

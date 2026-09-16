@@ -1,0 +1,17 @@
+# Never commit a personal config — this file lives in ~/.claude/, not the repo
+se-config.json
+**/se-config.json
+shared/config/se-config.json
+
+# AE roster is personal
+se-ae-roster.md
+**/se-ae-roster.md
+
+# Brain raw source decks (only digests ship) — keeps the bundle small
+shared/brains/**/*.pptx
+shared/brains/**/*.key
+shared/brains/**/raw/
+
+# OS / editor cruft
+.DS_Store
+*.swp

@@ -1,0 +1,7 @@
+{
+  "name": "se-dreamforce",
+  "description": "Dreamforce account/attendee profiling and personalized session recommendations. df27-account-onboard orchestrates account-profile, attendee-profile, and recommendation-doc; df-update syncs the session catalog. NOTE: source skills embed sample customer data that is scrubbed on migration.",
+  "version": "0.1.0",
+  "author": { "name": "David Langan" },
+  "keywords": ["salesforce", "dreamforce", "events", "session-recommendations"]
+}

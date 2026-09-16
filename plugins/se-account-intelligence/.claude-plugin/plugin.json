@@ -1,0 +1,7 @@
+{
+  "name": "se-account-intelligence",
+  "description": "End-to-end account research, strategy, and executive narrative. Orchestrator se-full-account-package chains entitlement decoding, case insights, buyer-group mapping, competitive intel, account research, Northstar POV, and Connected Vision.",
+  "version": "0.1.0",
+  "author": { "name": "David Langan" },
+  "keywords": ["salesforce", "solutions-engineering", "account-planning", "connected-vision"]
+}
