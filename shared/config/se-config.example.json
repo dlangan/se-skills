@@ -1,0 +1,17 @@
+{
+  "org_alias": "you@salesforce.com",
+  "account_root": "~/accounts",
+  "slack_team_id": "T0XXXXXXXX",
+  "todo_canvas_id": "F0XXXXXXXXX",
+  "se_name": "Your Name",
+  "fiscal_calendar": { "fy": "FY27", "q_end": "2027-01-31" },
+  "ae_roster_path": "~/.claude/se-ae-roster.md",
+  "ae_roster": [
+    { "name": "AE One", "org62_user_id": "005XXXXXXXXXXXXXXX" },
+    { "name": "AE Two", "org62_user_id": "005XXXXXXXXXXXXXXX" }
+  ],
+  "specialist_roster": [
+    { "cloud": "Agentforce", "name": "Specialist AE Name" }
+  ],
+  "contact_key_contact_field": "Key_Contact__c"
+}
