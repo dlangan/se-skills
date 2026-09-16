@@ -1,0 +1,3263 @@
+[
+  {
+    "name": "OMS Agentic Order Routing Agent | Add-on",
+    "category": "Commerce Cloud Order Management",
+    "description": "An intelligent agent that allows operations managers to seamlessly resolve order fulfillment exceptions, ensuring fulfillment meets delivery promise without the bottleneck of supply chain teams to make changes.",
+    "installs": 0,
+    "tags": [
+      "Order Management"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Commerce Cloud"
+    ]
+  },
+  {
+    "name": "CRO Demo Bundle",
+    "category": "Slack Record Channels",
+    "description": "This demo follows a CRO through a high-pressure quarter-end moment \u2014 forecast call in 10 minutes, deal risk buried in fragmented DMs, and a key enterprise account showing signs of slipping.",
+    "installs": 1,
+    "tags": [
+      "Slack",
+      "Slack Record Channels",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Slack"
+    ]
+  },
+  {
+    "name": "Agentforce Vibes 2.0 | Setup",
+    "category": "Agentforce",
+    "description": "Experience the next generation of AI-powered development on Salesforce. Agentforce Vibes 2.0 brings provider-agnostic model support, multi-agent teams, a built-in Salesforce Skill Library, and 60+ MCP tools \u2014 all announced at TDX 2026.",
+    "installs": 20,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "CMO Slack Bundle",
+    "category": "Slack Record Channels",
+    "description": "Streamline marketing campaign planning and execution with a pre-configured Slack and Salesforce conversations, focused on selling to your customers CMO.",
+    "installs": 14,
+    "tags": [
+      "Slack",
+      "Slack Record Channels",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Slack",
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "HLS RDO: Individual & Family Plan Enrollment with Agentforce",
+    "category": "Agentforce Health",
+    "description": "Empower insurance brokers with Agentforce to quickly quote, compare, and enroll clients in individual and family health plans, streamlining the sales process for Brokers in Experience Cloud.",
+    "installs": 3,
+    "tags": [
+      "Healthcare and Life Sciences",
+      "Health Plans",
+      "Agentic Setup and Data Management",
+      "Industry Service Excellence",
+      "Insurance (Products)",
+      "Omni-Channel",
+      "Agentforce Service Agents",
+      "English (US)",
+      "Agentforce Service",
+      "Data 360",
+      "Experience Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Health Cloud",
+      "Experience Cloud"
+    ]
+  },
+  {
+    "name": "Salesforce Contracts | Contract Search Add-On",
+    "category": "Agentforce Revenue Management",
+    "description": "To enable SEs to demonstrate the power of Contract Search, transforming Salesforce from a contract repository into an intelligent legal advisor.",
+    "installs": 5,
+    "tags": [
+      "Core Cloud",
+      "Contract Lifecycle Management",
+      "SF Contracts",
+      "Agentforce Revenue Management"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Data 360 Notebook AI",
+    "category": "Data 360",
+    "description": "This QBrix enables and configures Notebook AI, Salesforce's generative AI workspace where you can upload documents, conduct research, and generate insights from your content.",
+    "installs": 9,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Field Service Contractor Custom Agent With Slack Setup",
+    "category": "Agentforce Field Service",
+    "description": "This Brix delivers a Custom Agent for Field Service scenarios: contractor product requests, approvals, post-work summaries, resource absences.",
+    "installs": 1,
+    "tags": [
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Field Service",
+      "Slack"
+    ]
+  },
+  {
+    "name": "SDO | Agentforce Observability - Employee Agent Data",
+    "category": "Analytics Cloud",
+    "description": "Visualize the performance of your AI Employee Agents with pre-built demo data, extending Agentforce Observability for comprehensive insights.",
+    "installs": 20,
+    "tags": [
+      "Core Cloud",
+      "Agentforce Observability",
+      "English (US)"
+    ],
+    "dependencies": [
+      "SDO | Agentforce Observability"
+    ],
+    "clouds": [
+      "Agentforce",
+      "Tableau"
+    ]
+  },
+  {
+    "name": "Manufacturing IDO+ | Lead Identification Agent",
+    "category": "Agentforce Sales",
+    "description": "This Brix installs the Sales Workspace and Prospecting Agent Mock Brix for you and updates the default MFG Sales Console home page, creating sales workspace and prospecting tabs for you and populating prospecting agent data on your behalf.",
+    "installs": 4,
+    "tags": [
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Manufacturing Cloud"
+    ]
+  },
+  {
+    "name": "Manufacturing IDO | Community Agents Collection",
+    "category": "Agentforce Manufacturing",
+    "description": "Field-Sourced Agentforce Topics for morning briefings, pre-visit prep, meeting notes and tasks, sales-agreement updates, and manufacturing deal workflows including Voice-tuned topics",
+    "installs": 0,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "AI & Agentforce",
+      "English (US)",
+      "Agentforce Manufacturing"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Manufacturing Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Field Resource Assistive Custom Agent for Field Service",
+    "category": "Agentforce Field Service",
+    "description": "This demo add-on focussed on The Field Resource Assistive (FRA) Agent is a digital assistant designed specifically for technicians and engineers on the move.",
+    "installs": 11,
+    "tags": [
+      "Core Cloud",
+      "AI & Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Field Service"
+    ]
+  },
+  {
+    "name": "Media on Core IDO | Media Sales Insertion Order and Document Generation",
+    "category": "Agentforce Media",
+    "description": "Streamline ad sales with automated insertion order and document generation, empowering Agentforce Media users to quickly close deals with Stellar Media (our fictitious publisher).",
+    "installs": 2,
+    "tags": [
+      "Communications and Media",
+      "Media and Entertainment",
+      "Core Cloud",
+      "DocGen Core",
+      "Contract Lifecycle Management",
+      "SF Contracts",
+      "DocGen Runtime",
+      "Document Generation",
+      "Flows",
+      "Dutch",
+      "English (US)",
+      "Agentforce Revenue Management",
+      "Agentforce Sales"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Health Cloud | ICM Data 360",
+    "category": "Agentforce Health",
+    "description": "This Q Brix is the additional Data 360 configuration for the Health Cloud feature of Integrated Care Management that was introduced in 260.",
+    "installs": 4,
+    "tags": [
+      "Healthcare and Life Sciences",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Health Cloud",
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Salesforce Contracts Demo",
+    "category": "Agentforce Revenue Management",
+    "description": "Deploy a standalone Salesforce Contracts configuration and optional integrations through post-deploy steps",
+    "installs": 29,
+    "tags": [
+      "Banking",
+      "Communications",
+      "Energy and Utilities",
+      "Financial Services",
+      "Healthcare and Life Sciences",
+      "High Tech",
+      "Insurance",
+      "Legal Services",
+      "Manufacturing",
+      "Core Cloud",
+      "Contract Lifecycle Management",
+      "Document Generation",
+      "SF Contracts",
+      "DocGen Designer",
+      "DocGen Core",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Health Cloud | Utilization Management Data 360",
+    "category": "Agentforce Health",
+    "description": "This Q Brix is the additional Data 360 configuration for the Health Cloud feature of Utilization Management introduced in 260.",
+    "installs": 4,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Health Cloud",
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Agentforce Prospecting | Demo + Visionary Asset",
+    "category": "Agentforce Sales",
+    "description": "Experience Salesforce's purpose-built AI prospecting agent with a mock component that simulates the full prospect list experience \u2014 no 3rd-party data required.",
+    "installs": 306,
+    "tags": [
+      "Core Cloud",
+      "Salesforce Prospecting",
+      "English (US)",
+      "Agentforce Sales",
+      "Sales and Service Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Contract Document Generation Using Context Service",
+    "category": "Agentforce Communications",
+    "description": "Contract Document Generation powered by Context Services",
+    "installs": 1,
+    "tags": [
+      "Communications",
+      "Core Cloud",
+      "SF Contracts",
+      "Contract Lifecycle Management",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Field Service Contractor Custom Agent",
+    "category": "Agentforce Field Service",
+    "description": "This Brix delivers a Custom Agent for Field Service scenarios: contractor product requests, approvals, post-work summaries, resource absences.",
+    "installs": 0,
+    "tags": [
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Field Service"
+    ]
+  },
+  {
+    "name": "SDO | Tableau Next in Slack",
+    "category": "Analytics Cloud",
+    "description": "Bring AI-powered Tableau Next analytics directly into Slack to empower your teams with instant insights and data-driven decisions, all within their workflow.",
+    "installs": 26,
+    "tags": [
+      "Core Cloud",
+      "Slack",
+      "SlackCRM",
+      "English (US)",
+      "Analytics Cloud",
+      "Tableau Next"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Slack"
+    ]
+  },
+  {
+    "name": "Tableau Next | Customer Signals Intelligence (Simulated)",
+    "category": "Analytics Cloud",
+    "description": "Customer Signals Intelligence (CSI) enhances service teams' ability to track customer sentiment in real time, leveraging intelligent analytics to uncover valuable insights from customer surveys and conversations.",
+    "installs": 103,
+    "tags": [
+      "Core Cloud",
+      "English (US)",
+      "Tableau Next"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "ProServ | Agentforce Workspace",
+    "category": "Agentforce Sales",
+    "description": "Mock Agentforce conversational-interface workspace for Key Account Sellers \u2014 daily brief, pipeline, accounts, campaigns, key contacts, and more (Desktop and iOS).",
+    "installs": 62,
+    "tags": [
+      "Professional Services",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Revenue Cloud | Slack Quoting Agent",
+    "category": "Agentforce Revenue Management",
+    "description": "Streamline sales processes and accelerate deal cycles by enabling your sales teams to manage quotes directly within Slack with the Revenue Cloud Quoting Agent.",
+    "installs": 17,
+    "tags": [
+      "Core Cloud",
+      "Slack",
+      "English (US)",
+      "Slack Agents"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Revenue Cloud",
+      "Slack"
+    ]
+  },
+  {
+    "name": "Agentforce Service Agent | POC",
+    "category": "Agentforce",
+    "description": "Rapidly set up a foundational Agentforce Service Agent in NextGen Authoring with pre-built topics for account, case, and order management.",
+    "installs": 25,
+    "tags": [
+      "POC",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "ProServ | Agentic Front Office",
+    "category": "Agentforce Sales",
+    "description": "Mock components for an agentic home page and an agentic account page for Consulting Partners.",
+    "installs": 37,
+    "tags": [
+      "Professional Services",
+      "Core Cloud",
+      "Sales Account Research",
+      "English (AU)",
+      "English (UK)",
+      "English (US)",
+      "Agentforce 360 Platform",
+      "Agentforce Sales",
+      "Sales and Service Cloud",
+      "Account Engagement"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Data 360 | Clean Rooms - Provider Org Setup",
+    "category": "Data 360",
+    "description": "Data 360 Clean Rooms enables customers collaborate safely with their partners using shared data. This demo brix automates the setup needed to demonstrate clean rooms segment overlap use case as a Provider of data along with a demo guide.",
+    "installs": 8,
+    "tags": [
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Advanced Document Validation extension for GPS",
+    "category": "Prompt Builder",
+    "description": "Generative AI validations on uploaded files",
+    "installs": 18,
+    "tags": [
+      "Education",
+      "Government",
+      "Nonprofit",
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Omega Inc. Channels Bundle",
+    "category": "Slack Record Channels",
+    "description": "Features 8 pre-populated Slack Channel conversations focused on Sales and Support involving the Omega Inc. account",
+    "installs": 47,
+    "tags": [
+      "Slack",
+      "Slack Record Channels",
+      "Slack Swarming",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Slack"
+    ]
+  },
+  {
+    "name": "Data 360 | Clean Rooms - Consumer Org Setup",
+    "category": "Data 360",
+    "description": "Data 360 Clean Rooms enables customers collaborate safely with their partners using shared data. This demo brix automates the setup needed to demonstrate clean rooms segment overlap use case as a Consumer of data along with a demo guide.",
+    "installs": 5,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Sales Cloud | Engagement Agents Pre-Work",
+    "category": "Agentforce Sales",
+    "description": "Accelerate your Engagement Agent setup by automating foundational configurations, including Agent User creation, Inbox activation, and Agentforce enablement.",
+    "installs": 107,
+    "tags": [
+      "Core Cloud",
+      "Sales Cloud Einstein",
+      "English (US)",
+      "Agentforce Sales"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "CKO for the SDO | Service Cloud FY27",
+    "category": "Agentforce Service",
+    "description": "Recreate CKO Magic in your own SDO. This brix automates the heavy lifting to deploy the same visionary service story you saw on stage.",
+    "installs": 69,
+    "tags": [
+      "Core Cloud",
+      "Contact Center as a Service",
+      "Agentforce Service Rep Assistant",
+      "Proactive Service",
+      "Agentforce Service Agents",
+      "Experience Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Experience Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Food Services",
+    "category": "Core Cloud",
+    "description": "Food Services demo configuration.",
+    "installs": 0,
+    "tags": [],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Employee Help Agent",
+    "category": "Slack Agents",
+    "description": "The Employee Help Agent is a Slack-based agent that provides instant answers to workplace questions.",
+    "installs": 83,
+    "tags": [
+      "Slack",
+      "English (US)",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Slack",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce Commerce, Revenue Management Add-On QBrix",
+    "category": "Agentforce Commerce",
+    "description": "Demonstrate Subscriptions and Configurator Products from your B2B Storefront",
+    "installs": 83,
+    "tags": [
+      "Core Cloud",
+      "Configurator Product",
+      "Subscription Product",
+      "Agentforce Revenue Management",
+      "B2B Commerce (Products)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Commerce Cloud",
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Salesforce Voice Setup",
+    "category": "Agentforce Service",
+    "description": "This Brix is designed to handle the heavy lifting of the backend configuration for our new native voice solution, ensuring you have a fully functional, dial-ready environment in minutes.",
+    "installs": 635,
+    "tags": [
+      "Core Cloud",
+      "Agentforce Service Agents",
+      "Contact Center as a Service",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "GPS Gov IDO | Omnistudio Security Update Perm Sets",
+    "category": "Agentforce Public Sector",
+    "description": "This Brix deploys 2 permission sets that account for the Omnistudio security update that came into effect February 2026.",
+    "installs": 1,
+    "tags": [
+      "Public Sector",
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "DemoGPT",
+    "category": "Retail",
+    "description": "DemoGPT is a mock component to demo what a real world Salesforce / ChatGPT / Gemini integration would look like (without having to setup an MCP server and web scraper to build out the real implementation yourself)",
+    "installs": 9,
+    "tags": [
+      "Retail",
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "AI Generated Conversation Catch-up",
+      "AI Agent Interactions",
+      "English (UK)",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Sales Account Research",
+    "category": "Agentforce Sales",
+    "description": "Use generative AI to instantly research accounts, answer key strategic questions, and automatically populate an account",
+    "installs": 475,
+    "tags": [
+      "Core Cloud",
+      "Sales Account Research",
+      "English (AU)",
+      "English (UK)",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Slack Record Channels for RCG",
+    "category": "Slack Record Channels",
+    "description": "Seamlessly integrates a pre-provisioned Slack demo org with the RCG IDO+ environment, enabling out-of-the-box Slack functionality on Account records with minimal configuration.",
+    "installs": 18,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "Slack"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Slack"
+    ]
+  },
+  {
+    "name": "Gov IDO | Slack AddOn Brix",
+    "category": "Slack",
+    "description": "Automate Slack channel creation for new records across key government objects, streamlining communication and collaboration for public sector services.",
+    "installs": 0,
+    "tags": [
+      "Public Sector",
+      "Slack",
+      "Slack Record Channels",
+      "English (US)",
+      "Slack"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Slack"
+    ]
+  },
+  {
+    "name": "Location Intelligence Agent",
+    "category": "Agentforce Consumer Goods",
+    "description": "This Qbrix acts as the bridge between your CRM data and the visual power of Salesforce Maps.",
+    "installs": 15,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "Salesforce Maps Live Tracking",
+      "Agentforce Retail"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Salesforce Maps"
+    ]
+  },
+  {
+    "name": "Tableau Next Dashboards for MFG IDO",
+    "category": "Analytics Cloud",
+    "description": "Qbrix for the Whitespace and Supply Chain dashboards built on Tableau Next using data from Core and Custom Objects",
+    "installs": 25,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "Tableau Next"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Manufacturing Cloud"
+    ]
+  },
+  {
+    "name": "Agentforce Grid Setup Brix",
+    "category": "Agentforce",
+    "description": "Use this asset to setup the base functionality for Agentforce Grid in your demo org. Coming soon: More robust examples for how to create and use Agent actions in Grid.",
+    "installs": 162,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agent Builder 2.0 | Example Agent",
+    "category": "Agentforce",
+    "description": "Unlock the latest Agentforce features with our best example agent. This instantly deploys the Pronto Support Assistant, a robust agent with pre-built topics and actions. Skip the building and start showing off the most current agent functionality today.",
+    "installs": 1919,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce IT Service | Base Configuration",
+    "category": "Agentforce Service",
+    "description": "Delivers core setup for Agentforce IT Service. Creates new demo personas for the IT Fulfiller/Specialist & Employee and essential elements like profiles, permission sets, objects, and key ITSM settings, giving you a ready-to-use foundation for your demo.",
+    "installs": 64,
+    "tags": [
+      "Agentforce IT Service"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Pardot Integration",
+    "category": "Account Engagement",
+    "description": "This Brix will automate the setup of installing and configuring Pardot in a core SDO.",
+    "installs": 21,
+    "tags": [
+      "Rebrandable",
+      "Core Cloud",
+      "Marketing Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "Learning Architecture",
+    "category": "Retail",
+    "description": "This comprehensive Q Brix creates an intelligent feedback loop that transforms raw conversational data into structured insights, actionable tasks, and guided workflows powered by Agentforce.",
+    "installs": 0,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Data 360 | Data Governance Demo for SDO",
+    "category": "Data 360",
+    "description": "See how Data Governance in Data Cloud helps organizations govern data access at scale. This demo showcases tagging, classification, and policy-based access controls.",
+    "installs": 9,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Sales Workspace Mock Component",
+    "category": "Agentforce Sales",
+    "description": "Demo component to simulate Sales Workspace in the SDO!",
+    "installs": 770,
+    "tags": [
+      "Core Cloud",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Manufacturing | Agentforce | Project Based Sales",
+    "category": "Agentforce Manufacturing",
+    "description": "This demo unleashes a conversational AI agent that automates pre-meeting intelligence, all powered by a rich, pre-built data model of 500+ realistic projects, enabling reps to master complex project-based sales.",
+    "installs": 51,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Manufacturing Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Tableau Next Dashboards for Tech IDO",
+    "category": "Analytics Cloud",
+    "description": "Qbrix for the Sales Pipeline and Consumption (+ Consumption After) dashboards built on Tableau Next using data from Core.",
+    "installs": 222,
+    "tags": [
+      "High Tech",
+      "Tableau Next"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau"
+    ]
+  },
+  {
+    "name": "Demo Assist | Mock Data Generator",
+    "category": "Agentforce",
+    "description": "Using Agentforce to Create Custom Mock Data for Demos at Salesforce",
+    "installs": 385,
+    "tags": [
+      "Core Cloud",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Demo Component | Mock Dynamic Plans for Service Assistant",
+    "category": "Agentforce Service",
+    "description": "Play with the future of service autonomy! The Simulated Dynamic Service Plans component showcases the next generation of the Agentforce Service Assistant.",
+    "installs": 331,
+    "tags": [
+      "Core Cloud",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "MFG | GDO | DealerPortal",
+    "category": "Vlocity",
+    "description": "This Brix will install/create experience site for the Dealer Portal with all dependent components.",
+    "installs": 12,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Manufacturing Cloud",
+      "Experience Cloud"
+    ]
+  },
+  {
+    "name": "RAG | Agentforce | SDO Demo (No Data Cloud)",
+    "category": "Core Cloud",
+    "description": "The Data Cloud RAG brix allows you to demonstrate the concepts of RAG without connecting to Data Cloud.",
+    "installs": 84,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Product Request",
+    "category": "Agentforce Consumer Goods",
+    "description": "This QBrix automates the enablement of Product Sample Request within the Retail Consumer Goods Industry Demo Org.",
+    "installs": 6,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Retail"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Sales Cloud | SDO | Pipeline Management Agent",
+    "category": "Agentforce Sales",
+    "description": "Sales agent that auto-updates pipeline data by analyzing data from meetings, emails, and notes - eliminating manual updates and accelerating deal cycles.",
+    "installs": 1231,
+    "tags": [
+      "Core Cloud",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Manufacturing Shared Robots",
+    "category": "Agentforce Consumer Goods",
+    "description": "This asset sets up Manufacturing Agentforce agents in the RCG IDO using an automated robot script.",
+    "installs": 3,
+    "tags": [
+      "Manufacturing",
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Consumer Goods",
+      "Agentforce Retail"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Manufacturing Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Manufacturing (MFG) | Demo Components & Tooling",
+    "category": "Agentforce Manufacturing",
+    "description": "Collection of demo components like Asset Health Scoring, Asset Metrics, plus Manufacturing Cloud-specific tools including an interactive Bill of Materials, and an Advanced Account Forecasting tool.",
+    "installs": 78,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "Agentforce Field Service"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Manufacturing Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Supply Chain",
+    "category": "Agentforce Consumer Goods",
+    "description": "A Key Account Manager identifies accounts trailing attainment to forecast.",
+    "installs": 7,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Data Cloud | Base Demo Setup for SDO",
+    "category": "Data 360",
+    "description": "Automated Data Cloud instance and setup. This solution handles the environment creation and populates live Sales, Service, and S3 streams for you.",
+    "installs": 815,
+    "tags": [
+      "Core Cloud",
+      "Customer Data Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Salesforce Contract Search",
+    "category": "Vlocity",
+    "description": "If you need fast, reliable answers buried in thousands of contract documents, configure contract search.",
+    "installs": 18,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "Contract Lifecycle Management",
+      "English (US)",
+      "Agentforce",
+      "Product Features"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Sales Cloud | Agentforce Web Agent",
+    "category": "Agentforce Sales",
+    "description": "Creates a web agent with two ootb topics for creating a lead and scheduling a meeting",
+    "installs": 378,
+    "tags": [
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Platform ALM & Governance Demo | DevOps Center",
+    "category": "Agentforce 360 Platform",
+    "description": "This deployable Brix helps automate the setup and enablement of key Platform Features to showcase Application lifecycle management using Devops Center.",
+    "installs": 88,
+    "tags": [],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Health Cloud: Agentforce for Home Health",
+    "category": "Agentforce Health",
+    "description": "Streamline home healthcare operations with AI-driven insights that analyze patient calls, identify needs, and verify coverage.",
+    "installs": 20,
+    "tags": [
+      "Healthcare and Life Sciences",
+      "Core Cloud",
+      "Home Health",
+      "Einstein 1",
+      "Data 360",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Health Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Health Cloud | Agentforce for Contact Center",
+    "category": "Agentforce Health",
+    "description": "Empower your contact center agents with a unified workspace to deliver personalized, efficient patient support.",
+    "installs": 8,
+    "tags": [
+      "Core Cloud",
+      "Contact Center",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Health Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Tableau Next | Setup of Customer Signals Intelligence",
+    "category": "Analytics Cloud",
+    "description": "This Qbrix installs a set of dependencies and assigns permissions to enable you to setup CS Intelligence.",
+    "installs": 359,
+    "tags": [
+      "Core Cloud",
+      "Tableau Next Intelligent Apps",
+      "English (AU)",
+      "English (UK)",
+      "English (US)",
+      "Analytics Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau"
+    ]
+  },
+  {
+    "name": "Retail - Connected Customer",
+    "category": "Retail",
+    "description": "This demo tells the story of how Northern Trail Outfitters uses Salesforce to deliver a connected, personalized customer experience.",
+    "installs": 62,
+    "tags": [
+      "Retail",
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "SDO | C360 Semantic Data Model",
+    "category": "Analytics Cloud",
+    "description": "Unlock intelligent insights with the foundational C360 Semantic Data Model, powering Tableau Next applications for a truly connected customer view.",
+    "installs": 3,
+    "tags": [
+      "Core Cloud",
+      "Tableau Next Intelligent Apps"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Tableau Next - Revenue Management Intelligence",
+    "category": "Analytics Cloud",
+    "description": "Revenue Management Intelligence is a comprehensive analytics suite that provides Revenue Cloud customers with end-to-end insights across pricing, subscriptions, orders, and billing to optimize financial performance.",
+    "installs": 101,
+    "tags": [
+      "Tableau Next Intelligent Apps"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Media on Core IDO | Advanced Approvals for Ad Sales",
+    "category": "Agentforce Media",
+    "description": "Streamline complex ad sales approval processes in your Media on Core IDO with Agentforce Revenue Advanced Approvals.",
+    "installs": 2,
+    "tags": [
+      "Media and Entertainment",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Revenue Management"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Retail - Franchise Management",
+    "category": "Retail",
+    "description": "Franchise Lifecycle Management demonstrates how Salesforce can transform franchise operations.",
+    "installs": 7,
+    "tags": [
+      "Retail",
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "Path",
+      "SF Contracts",
+      "Flows",
+      "Actions & Recommendations",
+      "English (US)",
+      "Experience Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Experience Cloud"
+    ]
+  },
+  {
+    "name": "Loyalty Status Email for MFG",
+    "category": "Agentforce Marketing",
+    "description": "An email updating recipients on their loyalty status, including current tier, bonus rewards and personalized product recommendations.",
+    "installs": 49,
+    "tags": [
+      "Rebrandable",
+      "Manufacturing",
+      "Marketing Cloud",
+      "Email Studio"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "Data Cloud | Tableau Dataverse",
+    "category": "Data 360",
+    "description": "Quickly integrate key industry datasets into Salesforce Data Cloud with our Heroku Postgres-powered Q Brix.",
+    "installs": 109,
+    "tags": [
+      "Core Cloud",
+      "Data 360"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud",
+      "Tableau"
+    ]
+  },
+  {
+    "name": "Manufacturing | Sample Management",
+    "category": "Agentforce Manufacturing",
+    "description": "This brix deploys the manufacturing sample management suite once found in the Legacy IDO. Request samples, track progress, manage approvals, and measure ROI.",
+    "installs": 35,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Manufacturing Cloud"
+    ]
+  },
+  {
+    "name": "Mass Merchant",
+    "category": "Agentforce Retail",
+    "description": "This QBrix automates the deployment of Mass Merchant within the RCG IDO+.",
+    "installs": 0,
+    "tags": [
+      "Core Cloud",
+      "Agentforce Retail"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "SFS | Dynamic Data Capture & Voice to Form",
+    "category": "Agentforce Field Service",
+    "description": "Empower field technicians with offline-capable data capture forms and automated workflows for safety assessments, inspections, and upsell opportunities.",
+    "installs": 43,
+    "tags": [
+      "Core Cloud",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Field Service",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce | Prompt Accelerator",
+    "category": "Agentforce Sales",
+    "description": "This QBrix allows Solution Engineers to quickly hardcode Agentforce conversations for visionary demos. It serves as a reliable fail-safe for live presentations and is ideal for last-minute demos where a guaranteed, specific response is required.",
+    "installs": 113,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "Prompt Builder",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "SDO | Agentforce Observability",
+    "category": "Analytics Cloud",
+    "description": "Agentforce Observability is a comprehensive monitoring and analytics suite delivered through Agentforce Studio that provides organizations with complete visibility into their AI agent performance across the entire agent lifecycle.",
+    "installs": 960,
+    "tags": [
+      "Tableau",
+      "Tableau Next"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "OMS Self Service RMA for Agentforce Commerce | Add-On",
+    "category": "Agentforce Commerce",
+    "description": "Salesforce Order Management provides flows and Core actions to initiate a Return Merchandise Authorization (RMA).",
+    "installs": 40,
+    "tags": [
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Commerce Cloud"
+    ]
+  },
+  {
+    "name": "Public Sector AI Document Review",
+    "category": "Einstein 1",
+    "description": "AI Document Review Capabilities",
+    "installs": 19,
+    "tags": [
+      "Public Sector",
+      "Core Cloud",
+      "Prompt Builder"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Tableau Next Starter Dashboards",
+    "category": "Analytics Cloud",
+    "description": "The Tableau Next Starter Dashboards are pre-built dashboards that you can install using the Tableau Next Toolkit App.",
+    "installs": 716,
+    "tags": [
+      "Core Cloud",
+      "Tableau"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau"
+    ]
+  },
+  {
+    "name": "Slack Demo Integration",
+    "category": "Slack",
+    "description": "Connect Slack and Salesforce instantly with zero manual effort. This solution automates the full integration, maps users, and assigns permissions automatically.",
+    "installs": 3029,
+    "tags": [
+      "Slack",
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Slack"
+    ]
+  },
+  {
+    "name": "Sales | Pipeline Agent Powering MEDDIC",
+    "category": "Sales and Service Cloud",
+    "description": "Sales Cloud Demo leveraging Sales Cloud Generative AI and platform customization to demonstrate Sales Methodology capture automation leveraging the MEDDIC methodology.",
+    "installs": 262,
+    "tags": [
+      "Core Cloud",
+      "Prompt Builder",
+      "Platform Experience",
+      "English (US)",
+      "Agentforce 360 Platform"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce Guided Shopping Agent for B2C Storefronts",
+    "category": "Agentforce Commerce",
+    "description": "The B2C Guided Shopping Brix aims to enhance the shopping experience for users by integrating an AI-driven Guided Shopping Agent within B2C storefronts.",
+    "installs": 50,
+    "tags": [
+      "Commerce Cloud (B2C)",
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Commerce Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Tech IDO | Service Messaging Channel",
+    "category": "Sales and Service Cloud",
+    "description": "Service Messaging Patch for Older Tech IDOs",
+    "installs": 21,
+    "tags": [
+      "High Tech",
+      "Core Cloud",
+      "Messaging for In-App and Web",
+      "Sales and Service Cloud",
+      "Service AI"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Agent Hunter",
+    "category": "Agentforce Retail",
+    "description": "Your AI-powered lead discovery agent that scours Google Places to uncover hidden business opportunities.",
+    "installs": 33,
+    "tags": [
+      "Retail",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Retail"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce | Case Classification",
+    "category": "Agentforce Financial Services",
+    "description": "Agentforce Service Agent Classifies Incoming Support Cases",
+    "installs": 94,
+    "tags": [
+      "Financial Services",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Omniscript Agent",
+    "category": "Einstein 1",
+    "description": "Embedded Agent inside of an Omniscript",
+    "installs": 17,
+    "tags": [
+      "Public Sector",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Tableau Next | Sales Insights",
+    "category": "Analytics Cloud",
+    "description": "Sales Insights is a suite of analytics dashboards built on the Tableau Next platform that gives sales teams a unified view of performance and pipeline health across the entire revenue lifecycle.",
+    "installs": 203,
+    "tags": [
+      "Core Cloud",
+      "Tableau Next Intelligent Apps",
+      "English (AU)",
+      "English (UK)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Data 360 | Document AI Demo",
+    "category": "Data 360",
+    "description": "See how Document AI in Data Cloud transforms unstructured documents into structured, actionable insights.",
+    "installs": 245,
+    "tags": [
+      "Document AI"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Agentforce Scheduling | Field Service",
+    "category": "Scheduler",
+    "description": "Scheduler Agent uses Agentforce as a conversational way to gather information from your customers to schedule appointments.",
+    "installs": 181,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Field Service",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Field Service | Appointment Management Agent | Agentforce",
+    "category": "Agentforce Field Service",
+    "description": "Field Service Agent includes OOTB topics to get your customers up and running with appointment management.",
+    "installs": 201,
+    "tags": [
+      "Core Cloud",
+      "AI & Agentforce",
+      "Scheduler",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Field Service",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Analytics Agent for Tableau Next",
+    "category": "Analytics Cloud",
+    "description": "This QBrix installs the Tableau Next Analytics Agent, enabling conversational analytics so you can explore insights and ask questions in natural language\u2014right within your dashboards.",
+    "installs": 1010,
+    "tags": [
+      "Core Cloud",
+      "AI & Agentforce",
+      "Tableau",
+      "Tableau Next"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "The Learning Architecture",
+    "category": "Agentforce",
+    "description": "Turn every call, meeting, and conversation into structured insights and automated workflows.",
+    "installs": 328,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce | Service on Email",
+    "category": "Agentforce Service",
+    "description": "Deploy an Agentforce for Service on Email Configuration and email template.",
+    "installs": 710,
+    "tags": [
+      "Core Cloud",
+      "Agentforce Service"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Consumer Goods | Dealer Onboarding",
+    "category": "Agentforce Consumer Goods",
+    "description": "A fast, end-to-end walkthrough showing how a new dealer is onboarded, verified, and activated.",
+    "installs": 2,
+    "tags": [],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Employee Service",
+    "category": "Agentforce Service",
+    "description": "HR Service simplifies HR processes with self-service tools and streamlined request management.",
+    "installs": 149,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Lightning Branding Generator",
+    "category": "Agentforce 360 Platform",
+    "description": "Auto generate theme based on company name and URL",
+    "installs": 157,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Field Service Operations with Tableau Next",
+    "category": "Analytics Cloud",
+    "description": "Field Service Operations is a Tableau Next\u2013powered dashboard suite for field service performance.",
+    "installs": 265,
+    "tags": [
+      "Core Cloud",
+      "Planning & Operations",
+      "Analytics Cloud",
+      "Agentforce Field Service",
+      "Tableau Next"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Field Service"
+    ]
+  },
+  {
+    "name": "Org Wide Email Demo Fix | SDO",
+    "category": "Agentforce 360 Platform",
+    "description": "This deployment addresses the breaking change released by security related to Organization Wide Email Addresses.",
+    "installs": 43,
+    "tags": [],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Prompt Builder Library | Demo Assets",
+    "category": "Core Cloud",
+    "description": "Showcase the power of Prompt Builder to your customers with the Prompt Builder Library Demo Asset. This resource provides a comprehensive set of custom prompt templates.",
+    "installs": 175,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce | Employee Agent",
+    "category": "Agentforce",
+    "description": "Easily deploy an Agentforce Employee Agent to assist employees with FAQs and record insights, complete with built-in permissions and Data Cloud activation.",
+    "installs": 916,
+    "tags": [
+      "Agentforce Sales",
+      "Agentforce",
+      "Platform"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Sales Cloud | Consumption Forecasting",
+    "category": "Agentforce Sales",
+    "description": "Unlock Consumption Forecasting powered by Data Cloud to forecast continuous revenue streams.",
+    "installs": 244,
+    "tags": [
+      "Core Cloud",
+      "Data 360"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "High Tech | Data Cloud Setup",
+    "category": "Data 360",
+    "description": "Completes the setup of Data Cloud for the High Tech IDO",
+    "installs": 370,
+    "tags": [
+      "High Tech",
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Agentforce for MuleSoft | Benefits Verification",
+    "category": "Agentforce MuleSoft",
+    "description": "This Brix contains an Agent to handle Benefits Verification.",
+    "installs": 50,
+    "tags": [
+      "Healthcare and Life Sciences",
+      "Mulesoft",
+      "Core Cloud",
+      "API Catalog",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "MuleSoft",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce for MuleSoft | Patient Appointment Scheduling GA",
+    "category": "Agentforce MuleSoft",
+    "description": "A Brix to handle Patient Appointment Scheduling, and admissions",
+    "installs": 28,
+    "tags": [
+      "Healthcare and Life Sciences",
+      "Mulesoft",
+      "Core Cloud",
+      "API Catalog",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "MuleSoft",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce for MuleSoft | Prior Authorization for HLS",
+    "category": "Agentforce MuleSoft",
+    "description": "This is an Agent that handles Prior Authorization, which also includes Benefits Verification.",
+    "installs": 30,
+    "tags": [
+      "Healthcare and Life Sciences",
+      "Mulesoft",
+      "Core Cloud",
+      "API Catalog",
+      "Agentforce"
+    ],
+    "dependencies": [
+      "Agentforce for MuleSoft | Benefits Verification"
+    ],
+    "clouds": [
+      "MuleSoft",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Tableau Next | Service Insights",
+    "category": "Analytics Cloud",
+    "description": "Service Insights uses data and AI to surface key performance metrics that help your service team improve efficiency, reduce costs, and boost customer satisfaction.",
+    "installs": 635,
+    "tags": [
+      "Core Cloud",
+      "Tableau Next Intelligent Apps",
+      "Agentforce",
+      "Agentforce Service"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau",
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Visionary Demo | Prompt Builder | Web Search News",
+    "category": "Prompt Builder",
+    "description": "Explore a forward-looking Generative AI demo that brings real-time news insights into Salesforce\u2014powered by Prompt Builder.",
+    "installs": 70,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Prompt Summaries Demo",
+    "category": "Prompt Builder",
+    "description": "Jumpstart your Prompt Builder journey with a plug-and-play AI demo that delivers instant value\u2014no heavy setup required.",
+    "installs": 95,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce for MuleSoft | OMS Using SAP S4HANA - GA",
+    "category": "Agentforce MuleSoft",
+    "description": "Agent based on API Catalog that understands Order Management and SAP Sales Orders.",
+    "installs": 299,
+    "tags": [
+      "Mulesoft",
+      "Core Cloud",
+      "API Catalog",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "MuleSoft",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "VoiceCRM | AI Visionary Demo",
+    "category": "Agentforce",
+    "description": "The VoiceCRM package leverages the Agentforce Speech Foundations. Speak into Salesforce and watch the magic unfold!",
+    "installs": 496,
+    "tags": [
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Data Cloud | Hibernate",
+    "category": "Data 360",
+    "description": "Put Data Cloud to sleep safely. This Brix pauses key features and background activity.",
+    "installs": 1786,
+    "tags": [
+      "Core Cloud",
+      "Customer Data Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Demo Component | AI Agent Live Monitoring",
+    "category": "Agentforce Service",
+    "description": "Live monitoring demo component for Omni Supervisor",
+    "installs": 301,
+    "tags": [
+      "Core Cloud",
+      "Omni-Channel",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Product Specialist Agent",
+    "category": "Slack Agents",
+    "description": "An agent that users can ask product questions, search Slack conversations for product related conversations and log a case for a product gap.",
+    "installs": 157,
+    "tags": [
+      "Slack",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Slack",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "SDO | Salesforce Foundations | Setup Brix",
+    "category": "Platform",
+    "description": "Salesforce Foundations unifies Sales, Service, Marketing, and Commerce teams by connecting data into a deeply integrated CRM suite.",
+    "installs": 237,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Service Cloud",
+      "Marketing Cloud",
+      "Commerce Cloud"
+    ]
+  },
+  {
+    "name": "Demo Component | Asset Cards",
+    "category": "Platform",
+    "description": "A better looking way to display assets.",
+    "installs": 151,
+    "tags": [],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Demo Component | Customer Insights Card",
+    "category": "Platform",
+    "description": "Customer Card demo component, inspired by the Keynote at Trailhead DX '25 featuring Vivint",
+    "installs": 412,
+    "tags": [],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Staffing IDO Industry Brix",
+    "category": "Einstein 1",
+    "description": "This is the Brix for the Staffing and Recruiting IDO.",
+    "installs": 67,
+    "tags": [
+      "Staffing & Recruiting",
+      "Sales Performance",
+      "Sales Performance Management"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Own Demos | Archive, Secure, Backup, Accelerate",
+    "category": "Own Backup & Restore",
+    "description": "This Demo asset sets up all of the necessary Data and permissions needed to Demo Own Demos at Salesforce",
+    "installs": 141,
+    "tags": [],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Saleo | Base Configuration",
+    "category": "Platform",
+    "description": "This brix adds the needed configuration to your org so that you can leverage Saleo to customize your org.",
+    "installs": 32,
+    "tags": [
+      "Core Cloud",
+      "English (US)",
+      "Other"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Visit Management",
+    "category": "Agentforce Retail",
+    "description": "This agent helps field sales reps plan their upcoming week with insights into distributor details and product upsell opportunities.",
+    "installs": 12,
+    "tags": [
+      "Retail",
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Retail",
+      "Agentforce Consumer Goods"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "OmniStudio | Base Configuration on Core",
+    "category": "Vlocity",
+    "description": "This brix enables required settings to enable the omnistudio runtime on core and assigns required permission sets.",
+    "installs": 35,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Health Cloud | Agentforce for Disease Surveillance",
+    "category": "Agentforce Health",
+    "description": "Streamline disease investigation with AI-powered case classification.",
+    "installs": 16,
+    "tags": [
+      "Healthcare and Life Sciences",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce",
+      "Einstein 1"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Health Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Data Cloud | Wake-Up from Hibernate",
+    "category": "Data 360",
+    "description": "Reactivates key features like Market Segments, Data Streams, Calculated Insights, Identity Resolution, and more.",
+    "installs": 146,
+    "tags": [
+      "Core Cloud",
+      "Customer Data Cloud"
+    ],
+    "dependencies": [
+      "Data Cloud | Hibernate"
+    ],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Mulesoft Demo Integration",
+    "category": "Agentforce MuleSoft",
+    "description": "Auto-integrate a Mulesoft Demo Org and a Salesforce Demo Org.",
+    "installs": 6,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "MuleSoft"
+    ]
+  },
+  {
+    "name": "Public Sector Agentforce",
+    "category": "Einstein 1",
+    "description": "Public Sector Specific AgentForce capabilities",
+    "installs": 32,
+    "tags": [
+      "Public Sector",
+      "Core Cloud",
+      "Einstein 1",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce for Security (Hyperforce Only)",
+    "category": "Agentforce",
+    "description": "Agentforce for Security features on Hyperforce",
+    "installs": 80,
+    "tags": [
+      "Core Cloud",
+      "Security Center",
+      "Event Monitoring",
+      "Shield",
+      "Platform"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Service Agent",
+    "category": "Agentforce Consumer Goods",
+    "description": "How Agentforce is helping Consumer Goods companies eliminate manual processes in the Service Center.",
+    "installs": 14,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Consumer Goods",
+      "Agentforce Retail"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Demo Component | Mock Agentforce Service Rep Assistant",
+    "category": "Agentforce Service",
+    "description": "Mock Agentforce Service Assistant demo component",
+    "installs": 410,
+    "tags": [
+      "Core Cloud",
+      "Einstein 1",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Agentforce Commerce Agents | Add-on",
+    "category": "Agentforce",
+    "description": "Deploy Agents for Agentforce Commerce to your SDO/IDO org.",
+    "installs": 313,
+    "tags": [
+      "Core Cloud",
+      "B2B Commerce (Products)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Commerce Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Automation | Orchestrate large-scale service incidents",
+    "category": "Platform",
+    "description": "Orchestrates a coordinated Incident response plan across multiple teams.",
+    "installs": 48,
+    "tags": [
+      "Core Cloud",
+      "Flow Orchestrator"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "CRMA | Customer Signals Intelligence (Simulated)",
+    "category": "Analytics Cloud",
+    "description": "CSI enhances service teams' ability to track customer sentiment in real time.",
+    "installs": 689,
+    "tags": [
+      "Core Cloud",
+      "Agentforce Service"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Consumer Goods Digital Seller",
+    "category": "Agentforce Consumer Goods",
+    "description": "This Digital Rep Agent helps Outlet owners with order management, case management, and general FAQ.",
+    "installs": 2,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "Agentforce Consumer Goods",
+      "Agentforce Retail"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Simple Sign Up Cloud Page",
+    "category": "Agentforce Marketing",
+    "description": "Demo Marketing Cloud CloudPages with this simple, one column form.",
+    "installs": 369,
+    "tags": [
+      "Rebrandable",
+      "Marketing Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "Agentforce Agent Creator",
+    "category": "Einstein 1",
+    "description": "Spin agents for Agentforce very fast.",
+    "installs": 3785,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Loyalty Management | Harbor Cruise",
+    "category": "Loyalty Management",
+    "description": "This brix extends the SDO configuration for Loyalty Management.",
+    "installs": 67,
+    "tags": [
+      "Core Cloud",
+      "B2B Loyalty Management",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Mulesoft Composer | Base Config",
+    "category": "Agentforce MuleSoft",
+    "description": "This brix will install the Mulesoft Composer Package and assign permission sets.",
+    "installs": 69,
+    "tags": [
+      "Core Cloud",
+      "Mulesoft"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "MuleSoft"
+    ]
+  },
+  {
+    "name": "Einstein Sales Signals Tool",
+    "category": "Agentforce Sales",
+    "description": "Demoing Sales Signals in the SDO has never been easier.",
+    "installs": 370,
+    "tags": [
+      "Core Cloud",
+      "Einstein 1"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Asset Health Score Mock Dashboard",
+    "category": "Agentforce Field Service",
+    "description": "This deployable asset will deploy a mock dashboard to showcase Asset Health Score.",
+    "installs": 32,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Field Service"
+    ]
+  },
+  {
+    "name": "Einstein | Enable Gen AI + Agentforce",
+    "category": "Einstein 1",
+    "description": "Use this installable asset to activate Generative AI and Agentforce in your demo org.",
+    "installs": 214,
+    "tags": [
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Sales",
+      "Agentforce Service"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Omnichannel Inventory (OCI) for Agentforce Commerce | Add-on",
+    "category": "Agentforce Commerce",
+    "description": "The OCI QBrix sets up the feature OmniChannel Inventory.",
+    "installs": 85,
+    "tags": [
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Commerce Cloud"
+    ]
+  },
+  {
+    "name": "Data Cloud | Digital Wallet Simulator",
+    "category": "Data 360",
+    "description": "Digital Wallet demo brix installs simulated components to mimic Digital Wallet functionality.",
+    "installs": 842,
+    "tags": [
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Agentforce | Service Agent",
+    "category": "Agentforce Service",
+    "description": "Deploys a preconfigured Agentforce Service Agent that can action on Account Management, Case Management, and Order Management.",
+    "installs": 3024,
+    "tags": [
+      "Public Sector",
+      "Core Cloud",
+      "Einstein 1",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Tableau | Pulse Harbor Cruise",
+    "category": "Tableau",
+    "description": "Install our demo brix to effortlessly showcase Tableau Pulse without any setup!",
+    "installs": 111,
+    "tags": [
+      "Tableau Online",
+      "Core Cloud",
+      "Tableau Pulse",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Tableau"
+    ]
+  },
+  {
+    "name": "Consumer Goods - Brand Management",
+    "category": "Agentforce Consumer Goods",
+    "description": "This Demo Brix streamlines the new item launch process.",
+    "installs": 9,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Platform | Platform Security Harbor Cruise",
+    "category": "Agentforce 360 Platform",
+    "description": "Showcase Platform Security by deploying Data Mask, Salesforce Backup & Restore, and Einstein Data Detect.",
+    "installs": 24,
+    "tags": [
+      "Core Cloud",
+      "Data Mask",
+      "Backup & Restore",
+      "Einstein Data Detect",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "CRMA | Einstein Account Management",
+    "category": "Einstein 1",
+    "description": "View healthy and at risk accounts using Einstein Discovery models.",
+    "installs": 232,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Segment Intelligence | CRMA",
+    "category": "Analytics Cloud",
+    "description": "CRMA dashboard built for Segment Intelligence.",
+    "installs": 36,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Einstein for Sales Gen AI Setup",
+    "category": "Agentforce Sales",
+    "description": "Quickly activate and explore cutting-edge AI features for Sales Cloud.",
+    "installs": 340,
+    "tags": [
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Loyalty Management | Baseline Configuration & SDO Dataset",
+    "category": "Loyalty Management",
+    "description": "Simple datasets to showcase Loyalty Management.",
+    "installs": 86,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Einstein | Copilot + Prompt Builder Demo",
+    "category": "Einstein 1",
+    "description": "Streamlines Copilot demonstrations by handling all setup for Data Cloud, Prompt Templates, and Copilot.",
+    "installs": 275,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Industries | Shared Components | Salesforce Contracts",
+    "category": "Vlocity",
+    "description": "Industries Shared Demo Components and Salesforce Contracts",
+    "installs": 137,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "SF Contracts",
+      "Work Order Estimate",
+      "DocGen Core",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Retail - In Store CRM",
+    "category": "Retail",
+    "description": "In-Store Experience for Retail customers, structured in 4 chapters.",
+    "installs": 11,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Retail",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Field Service | Agentforce for Dispatchers & Technicians",
+    "category": "Agentforce Field Service",
+    "description": "Automates setup steps for Field Service Einstein Add-on Features along with Copilot in Field Service Mobile app.",
+    "installs": 176,
+    "tags": [
+      "Core Cloud",
+      "AI & Agentforce",
+      "English (US)",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Field Service",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Spiff Commission Estimator | Add-on Demo",
+    "category": "Agentforce Sales",
+    "description": "Mock representation of Spiff integration on an opportunity record.",
+    "installs": 220,
+    "tags": [
+      "Core Cloud",
+      "Spiff",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Analytics | Revenue Intelligence",
+    "category": "Analytics Cloud",
+    "description": "Revenue Intelligence helps sales teams gain performance insights.",
+    "installs": 175,
+    "tags": [
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Sales"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Einstein | Custom Copilot Actions",
+    "category": "Core Cloud",
+    "description": "Add custom actions to your copilot with deployable assets or build your own.",
+    "installs": 105,
+    "tags": [],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Service Gen AI Setup",
+    "category": "Agentforce Service",
+    "description": "Turn on Einstein Generative AI and automate setup for Service Replies, Work Summaries, Search Answers, and Knowledge Creation.",
+    "installs": 625,
+    "tags": [
+      "Core Cloud",
+      "Einstein Service Replies",
+      "Knowledge",
+      "English (US)",
+      "Einstein 1"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Tool | Demo Brix Tracking",
+    "category": "AI Platform",
+    "description": "Demo tooling to enable usage measurement and monitoring.",
+    "installs": 486,
+    "tags": [
+      "Core Cloud",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Einstein | Conversation Mining Data Set",
+    "category": "Einstein 1",
+    "description": "Setup all necessary steps for Einstein Conversation Mining.",
+    "installs": 112,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Marketing Cloud Advanced Demo",
+    "category": "Agentforce Marketing",
+    "description": "Setup and enable Marketing Cloud Advanced Demos.",
+    "installs": 1260,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "Revenue Cloud | SDO | Harbor Cruise Demo",
+    "category": "Agentforce Revenue Management",
+    "description": "Demonstration highlighting the value proposition of Salesforce for Revenue Cloud",
+    "installs": 365,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Slack | Base Configuration",
+    "category": "Slack",
+    "description": "Basic setup for core configuration of slack.",
+    "installs": 212,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Slack"
+    ]
+  },
+  {
+    "name": "Einstein Conversation Insights | Base Config",
+    "category": "Agentforce Sales",
+    "description": "Configuration of Einstein Conversation Insights.",
+    "installs": 827,
+    "tags": [
+      "Core Cloud",
+      "Einstein Conversation Insights (ECI)",
+      "English (US)",
+      "Einstein 1"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Experience Cloud | AppExchange Extensions",
+    "category": "Experience Cloud",
+    "description": "Curated AppExchange collection to extend Experience Cloud demos.",
+    "installs": 25,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Experience Cloud"
+    ]
+  },
+  {
+    "name": "Einstein Case Classification | CaseWrapUp | Setup Automation",
+    "category": "Einstein 1",
+    "description": "Setup automation to activate einstein case models in a demo org.",
+    "installs": 325,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Data Cloud | Setup Automation",
+    "category": "Data 360",
+    "description": "Configures and sets up Data Cloud in Core. Assigns permission sets, enables features, and provisions a Data Cloud instance.",
+    "installs": 2514,
+    "tags": [
+      "Core Cloud",
+      "Customer Data Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Analytics | Service Intelligence",
+    "category": "Analytics Cloud",
+    "description": "Service Intelligence transforms service workflows into intelligent experiences.",
+    "installs": 309,
+    "tags": [
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Service"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Visual Remote Assistant | Setup Automation",
+    "category": "Visual Remote Assistant",
+    "description": "Setup automation to configure VRA in a demo org.",
+    "installs": 102,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Sales Cloud | Sales Planning | Harbor Cruise",
+    "category": "Agentforce Sales",
+    "description": "Plan sales strategies continuously with stakeholders.",
+    "installs": 95,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Agentforce for Platform | Mock Agent Components",
+    "category": "Einstein 1",
+    "description": "Simulated demo showcasing the functionality of Einstein Copilot.",
+    "installs": 231,
+    "tags": [
+      "Core Cloud",
+      "English (US)",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Marketing Cloud to Core | Integration Brix",
+    "category": "Agentforce Marketing",
+    "description": "Automates integrating a Marketing Cloud Demo Org to a Core Demo Org.",
+    "installs": 61,
+    "tags": [
+      "Rebrandable",
+      "Core Cloud",
+      "Marketing Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "Demo Component | Mock Reply Recommendations & Work Summaries",
+    "category": "Agentforce Service",
+    "description": "Demo components that simulate Service Cloud Gen AI features.",
+    "installs": 385,
+    "tags": [
+      "Core Cloud",
+      "Einstein Service Replies",
+      "English (US)",
+      "Einstein 1"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Messaging for In-App and Web Setup",
+    "category": "Agentforce Service",
+    "description": "Automate setup steps for Messaging In-App and Web.",
+    "installs": 687,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Pay Now for Agentforce Commerce | Add-on",
+    "category": "Agentforce Commerce",
+    "description": "Install the Pay Now portal.",
+    "installs": 76,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Commerce Cloud"
+    ]
+  },
+  {
+    "name": "Einstein | GPT Simulated Components",
+    "category": "Einstein 1",
+    "description": "Original Einstein GTP Simulated Component Bundle.",
+    "installs": 96,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "SDO | Platform | Consulting Base",
+    "category": "Platform",
+    "description": "For Solutions folks building demos for Professional Services industry.",
+    "installs": 57,
+    "tags": [
+      "Professional Services",
+      "Core Cloud",
+      "English (US)",
+      "CRM Analytics",
+      "Account Engagement"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Data Cloud | Mock Components",
+    "category": "Data 360",
+    "description": "Mock components to simulate Data Cloud integrated into CRM.",
+    "installs": 1280,
+    "tags": [
+      "Core Cloud",
+      "Customer Data Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Data Cloud"
+    ]
+  },
+  {
+    "name": "Sales | Maps | Sales Performance (SPM)",
+    "category": "Maps",
+    "description": "Add-on Brix that injects data to support SPM demos.",
+    "installs": 69,
+    "tags": [
+      "Core Cloud",
+      "Sales Performance",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Salesforce Maps"
+    ]
+  },
+  {
+    "name": "Tool | Demo Boost",
+    "category": "Other",
+    "description": "Turn your SDO into a fully functional environment instantly.",
+    "installs": 80,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Service Cloud | Enhanced Bot | Luna Bot",
+    "category": "Agentforce Service",
+    "description": "Enhanced Bots included in UE editions.",
+    "installs": 78,
+    "tags": [
+      "Core Cloud",
+      "Einstein Bots",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Automotive Cloud | Base Configuration",
+    "category": "Agentforce Automotive",
+    "description": "Baseline configuration for Automotive Cloud.",
+    "installs": 44,
+    "tags": [
+      "Automotive",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "TTH | Service | Unified Agent Experience",
+    "category": "Agentforce Service",
+    "description": "UAX is an intuitive Single System of Engagement for reservations & bookings.",
+    "installs": 234,
+    "tags": [
+      "Travel, Transportation, and Hospitality",
+      "Core Cloud",
+      "Mobile",
+      "English (US)",
+      "Experience Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Experience Cloud"
+    ]
+  },
+  {
+    "name": "Vlocity | Insurance | Base Configuration",
+    "category": "Vlocity",
+    "description": "Baseline configuration for Vlocity Insurance.",
+    "installs": 24,
+    "tags": [
+      "Financial Services",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "FINS | Marketing Cloud Mock Components",
+    "category": "Agentforce Marketing",
+    "description": "Mocked-up versions of Marketing Cloud package components for Financial Services.",
+    "installs": 94,
+    "tags": [
+      "Financial Services",
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Marketing"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "FINS | Distributed Marketing",
+    "category": "Agentforce Marketing",
+    "description": "Deploy Distributed Marketing package for Financial Services.",
+    "installs": 139,
+    "tags": [
+      "Financial Services",
+      "Core Cloud",
+      "Distributed Marketing",
+      "English (US)",
+      "Agentforce Marketing"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "Scheduler | Einstein Bot | Chronos",
+    "category": "Scheduler",
+    "description": "Add-on to Scheduler demos with Einstein Bot Chronos.",
+    "installs": 57,
+    "tags": [
+      "Core Cloud",
+      "Einstein Bots",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Service Cloud | Slack Case Swarming",
+    "category": "Slack",
+    "description": "Configure Slack Case Swarming for Service Cloud.",
+    "installs": 242,
+    "tags": [
+      "Core Cloud",
+      "English (US)",
+      "Agentforce Service"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud",
+      "Slack"
+    ]
+  },
+  {
+    "name": "Analytics | Tool | Dashboard Magic",
+    "category": "Analytics Cloud",
+    "description": "Generate fake reports/dashboards to quickly demonstrate core reporting.",
+    "installs": 167,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Scheduler | Harbor Cruise",
+    "category": "Scheduler",
+    "description": "All latest functionality for core Scheduler demos.",
+    "installs": 85,
+    "tags": [
+      "Core Cloud",
+      "Flows",
+      "Service Appointments",
+      "Appointment Scheduling Policy",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Agentforce Commerce | Harbour Cruise",
+    "category": "Agentforce Commerce",
+    "description": "All latest functionality for Agentforce Commerce on Core.",
+    "installs": 41,
+    "tags": [
+      "Core Cloud",
+      "Commerce Portals",
+      "English (US)",
+      "B2B Commerce (Products)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Commerce Cloud"
+    ]
+  },
+  {
+    "name": "Tool | Trialforce Prep",
+    "category": "Other",
+    "description": "Prepares an Org for Trialforce.",
+    "installs": 245,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Order Management (OMS) | Harbor Cruise",
+    "category": "Agentforce Commerce",
+    "description": "SDO Harbor Cruise Order Management demo and data.",
+    "installs": 67,
+    "tags": [
+      "Core Cloud",
+      "Order Management",
+      "Enhanced Notes",
+      "Reports & Dashboards",
+      "Path",
+      "Flows",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Commerce Cloud"
+    ]
+  },
+  {
+    "name": "Marketing Cloud Account Engagement | Harbor Cruise",
+    "category": "Account Engagement",
+    "description": "All latest functionality for Marketing Cloud Account Engagement demos.",
+    "installs": 113,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "Sales Cloud | Harbor Cruise",
+    "category": "Agentforce Sales",
+    "description": "All latest functionality for core Sales Cloud demos.",
+    "installs": 233,
+    "tags": [
+      "Core Cloud",
+      "Assignment Rules",
+      "Reports & Dashboards",
+      "Inbox",
+      "Lead Management",
+      "Opportunity Management",
+      "Products and Price Books",
+      "Person Accounts",
+      "Path",
+      "Territory Management",
+      "Queues",
+      "English (US)",
+      "Account Engagement"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Experience Cloud | SDO | Consumer Site",
+    "category": "Experience Cloud",
+    "description": "Consumer facing community shared between Service, Sales, and Field Service.",
+    "installs": 91,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Experience Cloud"
+    ]
+  },
+  {
+    "name": "Einstein | EMC\u00b2 Tooling",
+    "category": "Einstein 1",
+    "description": "Powers Einstein demos with Lead Scoring, Forecasting, and more.",
+    "installs": 138,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Marketing Cloud | Base Configuration",
+    "category": "Agentforce Marketing",
+    "description": "Baseline configuration for Marketing Cloud on core.",
+    "installs": 96,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "Platform Security Center | Base Configuration",
+    "category": "Platform",
+    "description": "Baseline configuration for Platform Security Center.",
+    "installs": 73,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "Sales Cloud | Sales Engagement | Harbor Cruise",
+    "category": "Agentforce Sales",
+    "description": "Inside sales tools for smarter prospecting and automation.",
+    "installs": 109,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "Sales Cloud | Maps | Harbor Cruise",
+    "category": "Maps",
+    "description": "Visualize Salesforce data on a map and build optimized routes.",
+    "installs": 87,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Salesforce Maps"
+    ]
+  },
+  {
+    "name": "Service Cloud | Harbor Cruise",
+    "category": "Agentforce Service",
+    "description": "All latest functionality for core Service Cloud demos.",
+    "installs": 297,
+    "tags": [
+      "Core Cloud",
+      "Einstein Bots",
+      "Entitlements & SLAs",
+      "Knowledge",
+      "Macros & Quick Text",
+      "Chat",
+      "Messaging for In-App and Web",
+      "Reports & Dashboards",
+      "Flows",
+      "Einstein Service Replies",
+      "Incident Management",
+      "Escalation Rules",
+      "Email Templates",
+      "Assignment Rules",
+      "Actions & Recommendations",
+      "Omni-Channel",
+      "Path",
+      "Einstein Work Summaries",
+      "Einstein Knowledge Creation",
+      "Einstein Campaign Insights",
+      "Queues",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Experience Cloud | SDO | Professional Site",
+    "category": "Experience Cloud",
+    "description": "Professional Experience Cloud site from the SDO.",
+    "installs": 105,
+    "tags": [
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Experience Cloud"
+    ]
+  },
+  {
+    "name": "Experience Cloud | SDO Partner Central Site",
+    "category": "Experience Cloud",
+    "description": "Partner Central community for PRM and Partner Community demos.",
+    "installs": 82,
+    "tags": [
+      "Core Cloud",
+      "Partner Community",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Experience Cloud"
+    ]
+  },
+  {
+    "name": "Agentforce Sales Coach | Simulated",
+    "category": "Agentforce Sales",
+    "description": "Mock component that simulates Agentforce Sales Coach.",
+    "installs": 512,
+    "tags": [
+      "Agentforce Sales",
+      "Agentforce"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Einstein Coach Demo Tool",
+    "category": "Agentforce Sales",
+    "description": "Streamlined solution for installing demo tooling for Einstein Coach video analysis.",
+    "installs": 176,
+    "tags": [
+      "Core Cloud",
+      "Einstein 1"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Sales Cloud"
+    ]
+  },
+  {
+    "name": "MFG Abandoned Cart Email",
+    "category": "Agentforce Marketing",
+    "description": "An email reminding recipients of items in their cart for Manufacturing.",
+    "installs": 39,
+    "tags": [
+      "Rebrandable",
+      "Manufacturing",
+      "Marketing Cloud",
+      "Email Studio"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "MFG Service Case Journey",
+    "category": "Agentforce Marketing",
+    "description": "Campaign to notify customers of equipment service alerts for Manufacturing.",
+    "installs": 51,
+    "tags": [
+      "Rebrandable",
+      "Manufacturing",
+      "Marketing Cloud",
+      "Journey Builder",
+      "Interactive Email"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "MFG Post Purchase Journey",
+    "category": "Agentforce Marketing",
+    "description": "Follow-up campaign with warranty upsell and service reminders for Manufacturing.",
+    "installs": 105,
+    "tags": [
+      "Rebrandable",
+      "Manufacturing",
+      "Marketing Cloud",
+      "Journey Builder"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Marketing Cloud"
+    ]
+  },
+  {
+    "name": "Revenue Cloud | High Tech IDO | Data",
+    "category": "Agentforce Revenue Management",
+    "description": "Demonstration for Revenue Cloud in the High Tech IDO.",
+    "installs": 201,
+    "tags": [
+      "High Tech",
+      "Core Cloud",
+      "Products and Price Books",
+      "Usage Management",
+      "Product Catalog Management",
+      "Product Configurator"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Revenue Cloud"
+    ]
+  },
+  {
+    "name": "Manufacturing | Agentforce for Manufacturing",
+    "category": "Agentforce Manufacturing",
+    "description": "Ready to demo manufacturing-specific AI? Deploy and start showcasing industry-tailored intelligence.",
+    "installs": 61,
+    "tags": [
+      "Manufacturing",
+      "Core Cloud",
+      "Agentforce Manufacturing"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Manufacturing Cloud",
+      "Agentforce"
+    ]
+  },
+  {
+    "name": "Sales Performance Management (SPM) AMER Demo Tools",
+    "category": "Maps",
+    "description": "Data for SPM demos including route optimization, field execution, territory carving.",
+    "installs": 40,
+    "tags": [
+      "Core Cloud",
+      "Sales Performance"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Salesforce Maps"
+    ]
+  },
+  {
+    "name": "Real Estate Management",
+    "category": "Retail",
+    "description": "Real estate operations management for retail brands.",
+    "installs": 0,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": []
+  },
+  {
+    "name": "CG Service",
+    "category": "Agentforce Consumer Goods",
+    "description": "Demo assets for Telesales & CG Cloud for Service.",
+    "installs": 0,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Core Cloud",
+      "English (US)"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  },
+  {
+    "name": "Consumer Care",
+    "category": "Agentforce Consumer Goods",
+    "description": "Enables sales reps to deliver exceptional customer service.",
+    "installs": 6,
+    "tags": [
+      "Retail and Consumer Goods",
+      "Consumer Products",
+      "Core Cloud"
+    ],
+    "dependencies": [],
+    "clouds": [
+      "Service Cloud"
+    ]
+  }
+]

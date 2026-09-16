@@ -33,14 +33,34 @@ cp shared/config/se-config.example.json ~/.claude/se-config.json
 
 | Severity | Blocker | Affected skills | Resolution | Status |
 |---|---|---|---|---|
-| 🔴 | `--target-org` hardcoded to author's Org62 | 4 write skills | → `config.org_alias` | pending migration |
-| 🔴 | Personal Slack canvas ID baked into shared logic | todo-tracker, hubbl-health360, call-notes | → `config.todo_canvas_id` | pending migration |
-| 🔴 | Real customer PII embedded in `SKILL.md` as a "reference log" | df27 profiling skills | **Manual scrub before publish** — `.gitignore` will NOT catch this | pending migration |
-| 🟠 | Inconsistent account root (3 conventions) | ~10 skills | → `config.account_root` | pending migration |
-| 🟠 | Hardcoded AE / specialist rosters + Slack IDs | territory / co-prime / AVP | → `config.*_roster` | pending migration |
-| 🟡 | Org-instance IDs (Scorecard metrics, UsageType, Campaign) | scorecard, org-health, df | Portable within the same Org62; documented, not externalized | accepted |
-| 🟡 | Slack-native, workspace-scoped skills | `se-afo-slack` family | Only run inside the original Slack workspace | accepted / documented |
-| ✅ | — | `se-key-contact-review` | Fully config-driven; no hardcoded org, roster, or IDs | **done** |
+| 🔴 | `--target-org` hardcoded to author's Org62 | write skills (territory-ops) | → `config.org_alias` | ✅ done |
+| 🔴 | Personal Slack canvas ID baked into shared logic | call-notes-analyzer, todo/health skills | → `config.todo_canvas_id` | ✅ done |
+| 🔴 | Real customer PII embedded in `SKILL.md` as a "reference log" | df27 profiling skills | Manually scrubbed before publish — every real customer/person name genericized to `[Account]`/`[Stakeholder]` placeholders | ✅ done |
+| 🔴 | Real internal Slack channel/canvas IDs left as "reference only" | afo-slack family, promo-collector, promo-matcher | Stripped to placeholder tokens (`<…_CHANNEL_ID>` / `<…_CANVAS_ID>`); word-bounded scan confirms zero `F0…`/`C0…`/`T…` real IDs remain | ✅ done |
+| 🟠 | Inconsistent account root (3 conventions) | ~10 skills | → `config.account_root` | ✅ done |
+| 🟠 | Hardcoded AE / specialist rosters + colleague Slack IDs | territory / co-prime / AVP | → `config.*_roster`; AVP/RVP identities + source channel/DM IDs genericized | ✅ done |
+| 🟡 | Org-instance IDs — Scorecard Metric/Type (`aJC…`/`aJD…`), Dreamforce Campaign (`701…`), Q-Identity Workspace org (`00D…`) | scorecard, territory-org62-sync, deal-coach, df-update, bvs | **Kept** — portable within the same Org62 and not personal data; documented so an installer knows they're author-org-specific and may need swapping | ✅ accepted / documented |
+| 🟡 | Slack-native, workspace-scoped skills | `se-afo-slack` family | Only run inside the original Slack workspace | ✅ accepted / documented |
+| ✅ | — | `se-key-contact-review` | Fully config-driven; no hardcoded org, roster, or IDs | **done (reference impl)** |
+
+### Kept org-instance IDs (documented, not PII)
+
+These opaque IDs are Org62 *metadata*, not personal or customer data. They're kept verbatim because they identify org objects the skill queries; an installer on a different Org62 swaps them:
+
+| ID pattern | What it is | Where |
+|---|---|---|
+| `aJC3y…` / `aJD3y…` | Scorecard Metric / Type record IDs | `se-scorecard`, `se-territory-org62-sync`, `se-deal-coach` |
+| `701ed…` | Dreamforce Campaign IDs | `df-update` (and df27 registration sync) |
+| `00D8c000003ECzNEAW` | Q-Identity Solutions Workspace org | `bvs-discovery-questionnaire` (BVS plug-in point) |
+
+### Known residual gaps (workspace-scoped, flagged for the installer)
+
+Config keys and behaviours that couldn't be fully generalized and are documented in the affected skill's Configuration section:
+
+- **`se-afo-slack` dual-workspace assumption** — the family was authored across two Slack workspaces; canvas/channel targets are placeholder tokens an installer must map to their own workspace. These skills only run inside the Slack workspace they were authored for.
+- **AVP/RVP source channels & DMs** — `se-avp-*` / `se-rvp-*` read a leader's Monday post and DM a canvas link; the source channel/DM and leader identity are placeholders, not canonical config keys.
+- **GTM-leader names (promo skills)** — no canonical `se-config.json` key exists for a GTM-leader roster; `promo-collector`/`promo-matcher` use `[GTM Leader Name]` placeholders rather than inventing a key.
+- **`tech_exec_user_id`** — the default tech-exec on SE opportunity field updates has no canonical key yet; skills that need it use a `<default_tech_exec_user_id>` placeholder pending a config-key decision.
 
 ---
 

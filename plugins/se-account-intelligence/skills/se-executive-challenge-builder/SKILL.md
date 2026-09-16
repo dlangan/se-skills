@@ -149,6 +149,6 @@ Articulate what happens if they don't act:
 
 ## Knowledge References
 
-- `~/agentforce-brain/digests/architecture/value-proof-points.md` — Customer stories with hard metrics (published Salesforce customer references)
+- `~/agentforce-brain/digests/architecture/value-proof-points.md` — Customer stories with hard metrics (published Salesforce customer references, e.g. iFood, Asymbl, Lennar, Pandora)
 - `~/agentforce-brain/digests/competitive/customer-stories-index.md` — Full story index by industry and use case
 - `~/agentforce-brain/digests/use-cases/industry-agentic-pov-methodology.md` — POV structure for executive conversations
